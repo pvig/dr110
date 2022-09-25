@@ -14,4 +14,8 @@ Arduino controlled midi :
 - note velocity handling with trigger pulse width
 
 
-  
+Quick audio samples to let you hear it in action :  
+
+(No fx applied, only a bit of compression)  
+https://raw.githubusercontent.com/pvig/dr110/master/samples/demo1.mp4  
+https://raw.githubusercontent.com/pvig/dr110/master/samples/demo2.mp4  
