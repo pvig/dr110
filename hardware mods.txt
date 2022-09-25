@@ -1,0 +1,41 @@
+DR 110 MODS
+
+
+
+BD mod : 
+
+50k log + 1k sur r86 : decay
+10uF sur r70 + SPST : oomph
+
+
+Snare mod :
+
+50k lin+1K sur r76 : tone
+50k lin + 1k sur r81 : Snap
+50k Log +1k  sur r84 : decay
+
+
+Hihats mod :
+
+1M lin +1k sur r20 : decay
+250k Lin +5 k sur r10 : pitch
+250k Lin +5 k sur r14 : tone
+1k Lin +10 sur r12 : filter
+
+Clap mod :
+
+100k Log  sur r113 : decay
+50k Lin sur r114 : Pitch
+50k Lin +5k sur r128 : phase
+
+
+Cymbal mods :
+
+1M Lin +1k  sur r44 : decay
+1k Lin sur r16 : filter
+
+
+Midi sync :
+
+1 midi din
+
