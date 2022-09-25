@@ -9,9 +9,9 @@ dr110 as a midi module
 
 Arduino controlled midi :  
 
-- trigger all voices with midi notes
-- play new sounds from original hardware :
-  - guiro  
-  - cabasa  
-  
+- trigger voices from midi notes
+- play new sounds from original hardware : guiro, cabasa  and more  
+- note velocity handling with trigger pulse width
 
+
+  
